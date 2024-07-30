@@ -1,1 +1,1 @@
-# Random_background
+# Random-BackgroundColor-Generator
